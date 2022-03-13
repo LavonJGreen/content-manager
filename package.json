@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
+  },
+  "name": "content-manager",
+  "description": "",
+  "version": "1.0.0",
+  "main": "contentManager.js",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node contentManager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LavonJGreen/content-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LavonJGreen/content-manager/issues"
+  },
+  "homepage": "https://github.com/LavonJGreen/content-manager#readme"
+}
