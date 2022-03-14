@@ -9,7 +9,7 @@ Create an app the allows for quick information look up for business manager to a
 ![javascript](https://img.shields.io/badge/-javascript-green) ![node JS](https://img.shields.io/badge/-nodeJS-yellowgreen) ![inquirer](https://img.shields.io/badge/-inquirer-yellow) ![jest](https://img.shields.io/badge/-jest-yellow)
 
 ## Video Demo
-
+https://watch.screencastify.com/v/ftFx03NO95hYiG2JMEXk
 
 ## Screenshot
 ![Alt text]()
