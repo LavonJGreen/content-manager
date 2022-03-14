@@ -9,4 +9,14 @@ const connection = mysql.createConnection({
   database: 'employee'
 });
 
+ 
 
+const selection = 
+["View All Departments", 
+"View All Employees", 
+"View All Roles", 
+"Add A Department", 
+"Add A Role", 
+"Add An Employee", 
+"Update An Employee Role"
+]
