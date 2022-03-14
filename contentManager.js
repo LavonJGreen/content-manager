@@ -1,3 +1,4 @@
+
 const inquirer = require('inquirer');
 
 const mysql = require('mysql2');
@@ -22,6 +23,8 @@ const selections =
 "Add A Role", 
 "Add An Employee", 
 "Update An Employee Role",
+/* update Salary */
+/*add manager*/
 /*"Exit"*/
 ]
 function Prompt() {
@@ -88,7 +91,7 @@ function Prompt() {
                     .prompt([{
                         type: 'text',
                         name: 'role',
-                        message: 'What is the role?'
+                        message: 'What is the title of for this role?'
                     },
                     {
                         type: 'text',

@@ -5,7 +5,7 @@
     "mysql2": "^2.3.3"
   },
   "name": "content-manager",
-  "description": "",
+  "description": "## Purpose Create an app the allows for quick information look up for business manager to add and edit team members in a database.",
   "version": "1.0.0",
   "main": "contentManager.js",
   "devDependencies": {
